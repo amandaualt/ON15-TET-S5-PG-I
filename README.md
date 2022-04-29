@@ -250,9 +250,7 @@ alunas.unshift("Bianca");
 alunas.shift();
 ```
 
-
 ### Copiar um array, *a gente nunca quer modificar os dados originais, por isso precisamos criar um novo array*.
-
 
 
 ```
@@ -265,9 +263,6 @@ podemos também copiar somente uma parte do array.
 ```
 var copia = alunas.slice(1,3);
 ```
-
-
-
 
  ### Remover um elemento em uma posição especifica do array
 
